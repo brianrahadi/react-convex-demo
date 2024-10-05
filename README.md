@@ -6,4 +6,4 @@ CLI Steps:
     1. npm i convex
     2. npx convex dev
     3. npx convex import --table tasks public/guestBookData.jsonl
-3. Enjoy!# react-convex-demo
+3. Enjoy!
