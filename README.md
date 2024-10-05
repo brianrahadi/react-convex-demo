@@ -3,9 +3,14 @@
 ## Set up
 
 High-level Steps:
-1. Start your react project - npm create vite@latest
+1. Start your react project 
+   1. npm create vite@latest
+   2. cd <repo-name>
+   3. npm install
+   4. npm run dev
+   5. Implement your initial react code
 2. Add convex backend - https://docs.convex.dev/quickstart/react
-    1. npm i convex
+    1. npm install convex
     2. npx convex dev
     3. npx convex import --table tasks public/guestBookData.jsonl
 3. Deploy your project - https://docs.convex.dev/production/hosting/vercel
