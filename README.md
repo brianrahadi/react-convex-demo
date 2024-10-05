@@ -25,11 +25,17 @@ Tools:
 
 ## Why Convex
 In hackathon, you want to build and prove things fast
-- Focus on the frontend (MVP)
+- Easy to use and serverless (no need to update manual deployment)
 - streamlined CI/ CD is king!
+- Ability to update database in-editor
+- Real-time data
+- Automatic Scalability
+- Built-in user authentication (not covered in this workshop)
+- Allow you to ocus on the frontend (MVP)
 
 Convex is one of the best tools to achieve that!
 
+## About
 What is this workshop not about
 - Teaching basics about web development, react, databases
 - Teaching how to make good UI
@@ -38,3 +44,8 @@ What is this workshop about
 - Show you how to bootstrap things fast
 - No UI - focus on connecting things end-to-end, deploying and connected with GitHub CI/CD
 - Save you time (only under 30 mins)
+
+
+## Acknowledgements
+Usage of my previous workshop material at https://github.com/brianrahadi/langhacks24-intro-to-react.
+Sample deployment at https://langhacks24-intro-to-react-dkis.vercel.app/
