@@ -49,6 +49,7 @@ function App() {
             onChange={(e) => setMessage(e.target.value)}
             required
           ></textarea>
+          <br/>
           <button type="submit" className="btn">Submit</button>
         </form>
       <br/>
